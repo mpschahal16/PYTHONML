@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/manpreet.iml" filepath="$PROJECT_DIR$/.idea/manpreet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYTHONPLUSML.iml" filepath="$PROJECT_DIR$/.idea/PYTHONPLUSML.iml" />
     </modules>
   </component>
 </project>
