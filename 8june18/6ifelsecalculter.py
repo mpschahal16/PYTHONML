@@ -1,3 +1,4 @@
+#simple calculater
 print("Enter the two no")
 a=int(input("ENTER THE FIRDT NO"))
 b=int(input("Enter the second no"))

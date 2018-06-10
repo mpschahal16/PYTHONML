@@ -8,10 +8,13 @@ print(b)
 print(b[1])
 print(b[1][4])
 
+#sub string
 print(b[1:4])
 
 c=a+b
 print(c)
+
+#length of list
 print(a.__len__())
 print(c.__len__())
 

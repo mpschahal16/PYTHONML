@@ -6,7 +6,7 @@ print(a&b)
 print(a.intersection(b))
 print(a.difference(b))   #a-b
 print(a-b)
-print(b.difference(a))   #b-a'
+print(b.difference(a))   #b-a
 print(b-a)
 
 

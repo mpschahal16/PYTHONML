@@ -1,3 +1,4 @@
+#if else ladder
 year=(int)(input("Enter the year :"))
 if(year%400==0):
     print(year, " is leap year")

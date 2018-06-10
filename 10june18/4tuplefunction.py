@@ -7,5 +7,5 @@ print(a)
 print(a[2:])
 a[2][1]=56
 print(a)
-##a[1]=96
+##a[1]=96  ###modifiying does not work
 print(a)

@@ -1,3 +1,4 @@
+#this program counts the occursnce of any digit in entered no
 num=int(input("Enter the no :"))
 d=int(input("Enter the digit to count :"))
 c=0

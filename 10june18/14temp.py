@@ -8,5 +8,6 @@ for c in word:
 print(d)
 d.__delitem__("H")
 print(d)
+#delete item
 d.pop("E")
 print(d)

@@ -6,4 +6,4 @@ print(a)
 ##list a=[]
 ## tuple a=()
 ## set a={}
-## dictonar   a{b:c,d:e}
+## dictonar   a{"key1":"value1","key2":"value2"}

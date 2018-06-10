@@ -1,5 +1,6 @@
 a=[100,96,4,5,6,7,8]
 print(a)
+#reverse of list
 a.reverse()
 print(a)
 a.sort()

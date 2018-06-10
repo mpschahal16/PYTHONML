@@ -8,3 +8,11 @@ for i in range(1,6):
            print(k,end="")
            k=1
     print()
+
+'''
+1
+01
+010
+1010
+10101
+'''

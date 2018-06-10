@@ -4,3 +4,11 @@ for i in range(1,6):
         print(k,end="")
         k=k+1;
     print()
+
+'''
+1
+23
+345
+4567
+56789
+'''
