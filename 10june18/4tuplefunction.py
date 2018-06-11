@@ -9,3 +9,7 @@ a[2][1]=56
 print(a)
 ##a[1]=96  ###modifiying does not work
 print(a)
+
+
+d=(1,2,(56,96,65),[4,5,6],3)
+print(d[2][2])

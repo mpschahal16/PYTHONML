@@ -11,3 +11,20 @@ print(b[:3])
 print(10 in a)
 print(56 in a)
 print(10 not in b)
+print(a[2])
+
+##no deletion is allowed
+
+
+###del a[3]
+
+
+print(max(a))
+print(min(a))
+
+
+#enumaration is suppoted
+
+print(tuple(enumerate(a)))
+
+
