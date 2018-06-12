@@ -10,3 +10,11 @@ else:
         print(year, ": is leap year")
     else:
         print(year, "is not a leap year")
+
+
+
+'''
+#O/P
+Enter the year :1700
+1700 is not a leap year
+'''

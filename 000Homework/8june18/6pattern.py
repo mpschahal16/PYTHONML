@@ -4,9 +4,9 @@ for i in range(1,6):
     print()
 
 '''
-*1*2*
-*1*2*
-*1*2*
-*1*2*
-*1*2*
+A B C D E 
+B C D E F 
+C D E F G 
+D E F G H 
+E F G H I 
 '''

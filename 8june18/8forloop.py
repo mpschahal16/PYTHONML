@@ -4,3 +4,12 @@
 
 for i in range(1,10,2):
     print(i, "Hello world")
+
+'''
+O/P
+1 Hello world
+3 Hello world
+5 Hello world
+7 Hello world
+9 Hello world
+'''
