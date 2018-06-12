@@ -1,3 +1,7 @@
+##recursive function to find the factorial of no
+
+##recursion is less preffered in python coz it take more memory
+
 def fact(x):
     if(x==1):
         return 1
@@ -5,4 +9,11 @@ def fact(x):
         return(fact(x-1)*x)
 
 
-print(fact(5))
+print('FACTORIAL :',fact(5))
+
+
+'''
+o/pS
+FACTORIAL : 120
+
+'''
