@@ -5,5 +5,8 @@ class aaa:
         print("addition")
 
 
-obj=aaa()
-obj.addO()
+obj=aaa()   ##will make instance of the class aaa and call default constructer
+
+
+
+obj.addO()      #using that instance to access other function ,variable of that class
