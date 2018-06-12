@@ -1,6 +1,6 @@
 a=["hello","world","mps"]
 b=[1,2,3,4]
-c=[a,b]
+c=[a,b]  #list formed with 2 list
 print(c)
 
 #list element access

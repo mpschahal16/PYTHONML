@@ -8,3 +8,11 @@ while(sum<=num):
     a=b
     b=sum
     sum=a+b
+
+
+'''
+O/P
+
+Enter the Last tesrm range :6
+0 	 1	1	2	3	5	
+'''
