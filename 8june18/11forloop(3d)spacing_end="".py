@@ -24,6 +24,6 @@ print("\n")
 x=1
 for i in range(1,6):
     for j in range(1,6):
-        print("%-10d"%x,end="\t") ###more value for spacing
+        print("%-10d"%x,end="\t") ###more value with d for more spacing
         x+=10
     print()
