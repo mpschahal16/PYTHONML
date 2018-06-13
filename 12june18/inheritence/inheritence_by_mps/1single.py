@@ -1,6 +1,8 @@
 ##INHERITENCE SINGLE LEVEL
 
 
+
+
 class Parent1:    #base class
     def __init__(self):
         self.parentvar=10

@@ -11,4 +11,5 @@ class C:
 
 class D(A,B,C):
     def __init__(self):
+
         print("D")

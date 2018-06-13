@@ -19,6 +19,7 @@ class Child(Parent):    ##class inheriting from parent
 
 
 
+
 object=Child()              #creating object of child class
 object.Childfunction()           ##acessesing function of parent class with the instance of child class
 object.Parentfunction()
