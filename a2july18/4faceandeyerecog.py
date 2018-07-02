@@ -10,12 +10,12 @@ import cv2
 # object we want to detect a cascade function is trained
 # from a lot of positive(faces) and negative(non-faces)
 # images.
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('/home/manpreet/PycharmProjects/mps/PYTHONML/extradirforfile/haarcascade_frontalface_default.xml')
 
 # https://github.com/Itseez/opencv/blob/master
 # /data/haarcascades/haarcascade_eye.xml
 # Trained XML file for detecting eyes
-eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+eye_cascade = cv2.CascadeClassifier('/home/manpreet/PycharmProjects/mps/PYTHONML/extradirforfile/haarcascade_eye.xml')
 
 # capture frames from a camera
 cap = cv2.VideoCapture(0)
@@ -50,7 +50,7 @@ while 1:
 
     # Wait for Esc key to stop
     k = cv2.waitKey(30) & 0xff
-    if k == 27:
+    if k == ord('q'):
         break
 
 # Close the window
